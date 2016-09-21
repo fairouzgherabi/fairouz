@@ -1,2 +1,2 @@
-var message ="helo"
-alert(message)
+var message ="helo";
+alert(message);
